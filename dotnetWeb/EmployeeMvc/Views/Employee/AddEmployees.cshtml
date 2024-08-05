@@ -1,0 +1,34 @@
+@model Employee
+
+@{
+    ViewBag.Title = "Add Employee";
+}
+
+<h2>Add Employee</h2>
+
+<form method="post">
+    <div class="form-group">
+  <div class="form-group">
+    <label asp-for="Name">Name</label>
+    <input asp-for="Name" type="text" class="form-control" id="Name" placeholder="Enter Name">
+    <span asp-validation-for="Name" class="text-danger"></span>
+    
+  </div>
+  <div class="form-group">
+    <label asp-for="City">City</label>
+    <input asp-for="City" type="text" class="form-control" id="City" placeholder="Enter City">
+    <span asp-validation-for="City" class="text-danger"></span>
+  </div>
+  <div class="form-group">
+    <label asp-for="PhoneNumber">PhoneNumber</label>
+    <input asp-for="PhoneNumber" type="text" class="form-control" id="PhoneNumber" placeholder="Enter PhoneNumber">
+    <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+
+  </div>
+  <div class="col-2">
+  <button type="submit" class="btn btn-primary form-control">Submit</button>
+  </div>
+  <div>
+    <a href="@Url.Action("Employees", "Employee")">Back to List</a>
+</div>
+</form>

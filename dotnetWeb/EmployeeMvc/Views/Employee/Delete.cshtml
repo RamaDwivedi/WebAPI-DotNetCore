@@ -1,0 +1,20 @@
+@model Employee
+
+@{
+    ViewBag.Title = "Delete Employee";
+}
+
+<h2>Delete Employee</h2>
+
+<form asp-action="Delete" method="post">
+    <div class="form-group">
+  <div class="form-group">
+    <label asp-for="Id">Please Enter Id for Delete</label>
+    <input asp-for="Id" type="text" class="form-control" id="Id" placeholder="Enter Id">
+    <span asp-validation-for="Id" class="text-danger"></span>
+  </div>
+  <div class="col-2">
+  <button type="submit" class="btn btn-primary form-control">Submit</button>
+  </div>
+  </div>
+  </form>

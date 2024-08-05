@@ -1,0 +1,14 @@
+C:\Users\rama.dwivedi\OneDrive - Systems Plus Pvt. Ltd\Desktop\rama\Rama\dotnet\dotnetWeb\EmployeeDomain\obj\Debug\net8.0\EmployeeDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rama.dwivedi\OneDrive - Systems Plus Pvt. Ltd\Desktop\rama\Rama\dotnet\dotnetWeb\EmployeeDomain\obj\Debug\net8.0\EmployeeDomain.AssemblyInfoInputs.cache
+C:\Users\rama.dwivedi\OneDrive - Systems Plus Pvt. Ltd\Desktop\rama\Rama\dotnet\dotnetWeb\EmployeeDomain\obj\Debug\net8.0\EmployeeDomain.AssemblyInfo.cs
+C:\Users\rama.dwivedi\OneDrive - Systems Plus Pvt. Ltd\Desktop\rama\Rama\dotnet\dotnetWeb\EmployeeDomain\obj\Debug\net8.0\EmployeeDomain.csproj.CoreCompileInputs.cache
+C:\Users\rama.dwivedi\OneDrive - Systems Plus Pvt. Ltd\Desktop\rama\Rama\dotnet\dotnetWeb\EmployeeDomain\bin\Debug\net8.0\EmployeeDomain.deps.json
+C:\Users\rama.dwivedi\OneDrive - Systems Plus Pvt. Ltd\Desktop\rama\Rama\dotnet\dotnetWeb\EmployeeDomain\bin\Debug\net8.0\EmployeeDomain.dll
+C:\Users\rama.dwivedi\OneDrive - Systems Plus Pvt. Ltd\Desktop\rama\Rama\dotnet\dotnetWeb\EmployeeDomain\bin\Debug\net8.0\EmployeeDomain.pdb
+C:\Users\rama.dwivedi\OneDrive - Systems Plus Pvt. Ltd\Desktop\rama\Rama\dotnet\dotnetWeb\EmployeeDomain\obj\Debug\net8.0\EmployeeDomain.dll
+C:\Users\rama.dwivedi\OneDrive - Systems Plus Pvt. Ltd\Desktop\rama\Rama\dotnet\dotnetWeb\EmployeeDomain\obj\Debug\net8.0\refint\EmployeeDomain.dll
+C:\Users\rama.dwivedi\OneDrive - Systems Plus Pvt. Ltd\Desktop\rama\Rama\dotnet\dotnetWeb\EmployeeDomain\obj\Debug\net8.0\EmployeeDomain.pdb
+C:\Users\rama.dwivedi\OneDrive - Systems Plus Pvt. Ltd\Desktop\rama\Rama\dotnet\dotnetWeb\EmployeeDomain\obj\Debug\net8.0\ref\EmployeeDomain.dll
+C:\Users\rama.dwivedi\OneDrive - Systems Plus Pvt. Ltd\Desktop\rama\Rama\dotnet\dotnetWeb\EmployeeDomain\bin\Debug\net8.0\EmployeeDomain.runtimeconfig.json
+C:\Users\rama.dwivedi\OneDrive - Systems Plus Pvt. Ltd\Desktop\rama\Rama\dotnet\dotnetWeb\EmployeeDomain\obj\Debug\net8.0\EmployeeDomain.csproj.AssemblyReference.cache
+C:\Users\rama.dwivedi\OneDrive - Systems Plus Pvt. Ltd\Desktop\rama\Rama\dotnet\dotnetWeb\EmployeeDomain\obj\Debug\net8.0\EmployeeDomain.genruntimeconfig.cache

@@ -1,0 +1,39 @@
+
+@model List<Employee>
+
+@{
+    ViewData["Title"] = "Employees";
+}
+<h1>@ViewData["Title"]</h1>
+
+
+<div style="float: bottom;">
+<a asp-action="AddEmployees" asp-controller="Employee" class="btn btn-primary" align="right">Add New Employee</a>
+</div>
+
+<table class="table">
+    <thead>
+        <tr style="background-color: rgb(237, 237, 164);">
+            <th>ID</th>
+            <th>Name</th>
+            <th>City</th>
+            <th>PhoneNumber</th>
+            <th>Edit</th>
+            <th>Delete</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var employee in Model)
+        {
+            <tr style="background-color: rgb(240, 164, 164);">
+                <td>@employee.Id</td>
+                <td>@employee.Name</td>
+                <td>@employee.City</td>
+                <td>@employee.PhoneNumber</td>
+                 <td><a asp-action="Update" asp-route-id="@employee.Id">Edit</a> </td>|
+              <td> <a asp-action="Delete" asp-route-id="@employee.Id">Delete</a> </td> 
+            </tr>
+        }
+    </tbody>
+</table>   
+
